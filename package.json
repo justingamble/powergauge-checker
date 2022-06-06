@@ -1,0 +1,23 @@
+{
+  "name": "powergauge-checker",
+  "version": "1.0.0",
+  "description": "Assuming an account to Marc Chaikin's powergauge, log in and check the status of some stocks",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/justingamble/powergauge-checker.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/justingamble/powergauge-checker/issues"
+  },
+  "homepage": "https://github.com/justingamble/powergauge-checker#readme",
+  "devDependencies": {
+    "cypress": "^10.0.2"
+  }
+}
